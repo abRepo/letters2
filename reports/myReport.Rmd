@@ -1,0 +1,12 @@
+`r opts_knit$set(verbose = TRUE)`
+---
+title: "myReport"
+author: "abRepo"
+date: "Friday, August 08, 2014"
+output: html_document
+---
+
+
+```{r}
+library(ProjectTemplate); load.project()
+```
